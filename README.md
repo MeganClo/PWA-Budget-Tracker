@@ -3,6 +3,8 @@
 ## Description
 This application gives users a fast and easy way to track their money anytime, with offline functionality. A user can add expenses and deposits to their budget with or without a connection. 
 
+![pwa](https://user-images.githubusercontent.com/77699944/120727103-87f03a80-c48e-11eb-9403-2b76a7c1ca23.jpg)
+
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
